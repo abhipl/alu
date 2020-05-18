@@ -6,7 +6,7 @@ html
 body
 {
     background-color: #2F3035;
-    background-image: linear-gradient(rgba(128, 128, 128, 0.100),rgba(255, 255, 255, 0.100),rgba(255, 255, 0, 0.100)),url(images/background-adare-restaurant.jpg);
+    background-image: linear-gradient(rgba(128, 128, 128, 0.100),rgba(255, 255, 255, 0.100),rgba(255, 255, 0, 0.100)),url(background-adare-restaurant.jpg);
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center;   
